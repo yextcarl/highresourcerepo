@@ -1,0 +1,10 @@
+{
+  "$id": "Prod-1563",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "yext/name": "Product-1563"
+  },
+  "entityType": "yext/product",
+  "labels": []
+}
