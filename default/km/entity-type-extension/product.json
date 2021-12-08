@@ -2,5 +2,5 @@
   "$id": "product",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
   "enabled": true,
-  "entityType": "yext/product"
+  "entityType": "product"
 }
