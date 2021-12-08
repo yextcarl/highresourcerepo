@@ -5,6 +5,6 @@
   "content": {
     "yext/name": "Product-1001"
   },
-  "entityType": "yext/product",
+  "entityType": "product",
   "labels": []
 }
